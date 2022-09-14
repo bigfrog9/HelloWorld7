@@ -11,6 +11,7 @@ namespace HelloWorld7
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World 7");
+            Console.WriteLine("This is the change I'm making for Github");
             Console.ReadKey(true);
         }
     }
